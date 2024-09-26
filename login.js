@@ -12,6 +12,6 @@ function validateCredentials() {
 }
 
 function redirectToURL() {
-    const targetURL = 'beeg.com'; // Change this to your desired URL
+    const targetURL = 'https://pranx.com/hacker/';
     window.location.href = targetURL;
 }
