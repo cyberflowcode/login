@@ -12,6 +12,6 @@ function validateCredentials() {
 }
 
 function redirectToURL() {
-    const targetURL = 'https://example.com'; // Change this to your desired URL
+    const targetURL = 'beeg.com'; // Change this to your desired URL
     window.location.href = targetURL;
 }
